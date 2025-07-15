@@ -4,3 +4,5 @@ I have createed a basic spotify interface using HTML and CSS and also created a 
 
 OUTPUT:
 
+<img width="1257" height="536" alt="Image" src="https://github.com/user-attachments/assets/997d55ab-28d4-4f57-931c-11bd3e0c5f46" />
+
